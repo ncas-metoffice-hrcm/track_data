@@ -1,5 +1,5 @@
 # track_data
-Feature-tracking datasets produced by [HRCM](https://hrcm.ceda.ac.uk). *This repo is a work in progress.*
+Feature-tracking datasets produced by [HRCM](https://hrcm.ceda.ac.uk). ***This repo is a work in progress.***
 
 **Introduction**
 
@@ -12,7 +12,7 @@ Tracked phenomena include tropical cyclones, extratropical cyclones, smaller-sca
     └── dataset_class/            # e.g., model_simulations/
         └── dataset_name/         # e.g., HadGEM3/
             └── algorithm/        # e.g., TRACK/
-                └── dataset_id/   # e.g., u-ch330/ (an N1280 atmosphere-only simulation)
+                └── dataset_id/   # e.g., u-ch330/ (HadGEM3 simulation ID)
                     (additional sub-directories: different model experiments, ensemble members etc where necessary)
                     └── domain/   # e.g., NH/ (Northern Hemisphere)
                         └── track_file_year1
