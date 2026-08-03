@@ -26,7 +26,8 @@ else
     grid="gn"
 fi
 
-for y in $(seq 1950 2014); do
+#for y in $(seq 1950 2014); do
+for y in $(seq 2014 2049); do
     echo $y
     if [ "${hemisphere}" == "NH" ]; then
         season="jan-dec${y}"
