@@ -1,17 +1,15 @@
 #!/bin/bash
 
-source ~/.bash_profile
-
 username=""
 
 inst="$1"
 model="$2"
 forcing="$3"
-hemisphere="$4"
-variant="$5"
+variant="$4"
+hemisphere="$5"
 
-repo=~/Desktop
-#repo=~/Documents/GitHub/track_data/tropical_cyclones/model_simulations/CMIP6-HighResMIP
+repo=~/Documents/GitHub/track_data/tropical_cyclones/model_simulations/CMIP6-HighResMIP
+
 out_path=${repo}/${inst}/${model}/${forcing}/${hemisphere}
 echo ${out_path}
 mkdir -p ${out_path}
