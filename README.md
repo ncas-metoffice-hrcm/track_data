@@ -9,7 +9,7 @@ Tracked phenomena include synoptic-scale tropical and extratropical cyclones, po
 
 A searchable index of directories in this repo is updated daily at [hrcm.ceda.ac.uk/research/data/simulations](https://hrcm.ceda.ac.uk/research/data/simulations).
 
-For more information on model simulations, consult [hrcm.ceda.ac.uk/research/data/simulations)](https://hrcm.ceda.ac.uk/research/data/simulations).
+For more information on model simulations, consult [hrcm.ceda.ac.uk/research/data/simulations](https://hrcm.ceda.ac.uk/research/data/simulations).
 
 If you identify any data issues, such as missing files or corrupt or malformatted data, please [raise an issue](https://github.com/ncas-metoffice-hrcm/track_data/issues).
 
