@@ -1,9 +1,17 @@
 # track_data
-Feature-tracking datasets produced by [HRCM](https://hrcm.ceda.ac.uk). ***This repo is a work in progress.***
+***This repo is a work in progress.***
 
-**Introduction**
+Feature-tracking datasets produced by [HRCM](https://hrcm.ceda.ac.uk).
 
-Tracked phenomena include synoptic-scale tropical and extratropical cyclones, polar lows, medicanes and other 'mesoscale cyclones', and mesoscale convective systems. These datasets have been produced with peer-reviewed feature-tracking algorithms—namely *TRACK* (Hodges et al., 1994; Hodges et al., 1995; Hodges et al., 2017), *TempestExtremes* (Ullrich et al., 2017; Ullrich et al., 2021), *PyFLEXTRKR* (Feng et al., 2023), and *SyCLOPS* (Han and Ullrich, 2025). Track data should be read using [*HuracanPy*](https://huracanpy.readthedocs.io/en/stable/). Wherever possible, more than one tracking algorithm has been applied to a given dataset. For more information on model simulations, consult [hrcm.ceda.ac.uk/data](https://hrcm.ceda.ac.uk/data). If you identify any data issues, such as missing files or corrupt or malformatted data, please [raise an issue](https://github.com/ncas-metoffice-hrcm/track_data/issues).
+**Overview**
+
+Tracked phenomena include synoptic-scale tropical and extratropical cyclones, polar lows, medicanes and other 'mesoscale cyclones', and mesoscale convective systems. These datasets have been produced with peer-reviewed feature-tracking algorithms—namely *TRACK* (Hodges et al., 1994; Hodges et al., 1995; Hodges et al., 2017), *TempestExtremes* (Ullrich et al., 2017; Ullrich et al., 2021), *PyFLEXTRKR* (Feng et al., 2023), and *SyCLOPS* (Han and Ullrich, 2025). Track data should be read using [*HuracanPy*](https://huracanpy.readthedocs.io/en/stable/). Wherever possible, more than one tracking algorithm has been applied to a given dataset.
+
+A searchable index of directories in this repo is updated daily at [hrcm.ceda.ac.uk/research/data/simulations](https://hrcm.ceda.ac.uk/research/data/simulations).
+
+For more information on model simulations, consult [hrcm.ceda.ac.uk/research/data/simulations)](https://hrcm.ceda.ac.uk/research/data/simulations).
+
+If you identify any data issues, such as missing files or corrupt or malformatted data, please [raise an issue](https://github.com/ncas-metoffice-hrcm/track_data/issues).
 
 **Illustrative directory structure**
 
